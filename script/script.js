@@ -3,7 +3,9 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "http://gestyy.com/eqe5uf"
+words[1] = "https://todaynewspk.win/NrBAK4"
+words[2] = "https://todaynewspk.win/YQfYlg"
+
 
 
 
