@@ -1,9 +1,9 @@
-var NumberOfWords = 1
+var NumberOfWords = 2
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[2] = "https://todaynewspk.win/NrBAK4"
+words[1] = "https://todaynewspk.win/NrBAK4"
 words[2] = "https://todaynewspk.win/YQfYlg"
 
 
